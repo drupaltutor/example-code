@@ -1,2 +1,6 @@
 <?php
 
+function example_code_test() {
+  return "Hello world";
+}
+
